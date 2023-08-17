@@ -1,0 +1,47 @@
+#head
+{
+    background-color:black;
+    height: 20px;
+    width: 100%;
+}
+body
+{
+    height: 100%;
+    background-color:white;
+}
+#basket
+{
+    background-color:grey;
+    height:1000px;
+    width: 70%;
+    margin: 0px auto;
+}
+#header
+{
+    background-color: white;
+    height: 80px;
+}
+#basket img
+{
+    height: 70px;
+}
+#header ul
+{
+    float: right;
+    padding-top: 5px;
+}
+#header ul li
+{
+    display: inline;
+    margin-right: 17px;
+    
+
+}
+#header ul li a
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+a{
+    text-decoration: none;
+}
